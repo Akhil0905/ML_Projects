@@ -1,9 +1,3 @@
-
----
-
-### ✅ `VisionModels(Inpainting)`
-
-```markdown
 # 🖼️ VisionModels(Inpainting)
 
 This project performs semantic image inpainting using Stable Diffusion. It includes segmentation-based masking and regenerating occluded regions of images to create realistic visuals.
@@ -40,8 +34,10 @@ This project performs semantic image inpainting using Stable Diffusion. It inclu
 
 ```bash
 VisionModels(Inpainting)/
-├── segmentImages.py         # Segmentation logic
-├── inpaint_pipeline.py      # Stable Diffusion inpainting
-├── sample_images/           # Input test cases
-├── outputs/                 # Inpainted image results
-└── README.md                # This file
+├── subselectImages.ipynb           # Image Selection logic
+├── segmentImages.ipynb             # Generates Bird Masks
+├── removeBirds.ipynb               # Stable Diffusion inpainting
+├── replaceBirds.ipynb              # Inpainted new bird image
+├── substituteSquirrels.ipynb       # Inpainted squirrel images
+├── mySampleImages                  # Includes all the related images 
+└── README.md                       # This file
