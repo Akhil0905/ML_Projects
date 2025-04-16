@@ -24,7 +24,7 @@ This project focuses on developing reinforcement learning agents to play Atari g
 
 ---
 
-##🧠 Notes
+## 🧠 Notes
  - Used AtariPreprocessing and FrameStack from TF-Agents
  - Added custom ε-greedy policy scheduling
  - Replay buffer and target network implemented for stability
@@ -40,3 +40,12 @@ Atari_RL_Games/
 ├── videos/                # Recorded gameplay
 ├── plots/                 # Graphs of training reward
 └── README.md              # This file
+
+Atari_RL_Games/
+ ─ train_agent.py         # Training script
+ ─ test_agent.py          # Evaluation script
+ ─ plot_rewards.py        # Reward visualization
+ ─ checkpoints/           # Saved model weights
+ ─ videos/                # Recorded gameplay
+ ─ plots/                 # Graphs of training reward
+ ─ README.md              # This file
