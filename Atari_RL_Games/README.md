@@ -13,7 +13,7 @@ This project focuses on developing reinforcement learning agents to play Atari g
 
 ---
 
-## Main packages used:
+## 📊 Main packages used:
  - tensorflow
  - tf-agents
  - gym[atari]
@@ -31,7 +31,10 @@ This project focuses on developing reinforcement learning agents to play Atari g
  - Tuned hyperparameters (γ, ε, learning rate, etc.)
 
 ---
+
 ## 📁 Folder Structure
+
+```bash
 Atari_RL_Games/
 ├── train_agent.py         # Training script
 ├── test_agent.py          # Evaluation script
@@ -40,12 +43,3 @@ Atari_RL_Games/
 ├── videos/                # Recorded gameplay
 ├── plots/                 # Graphs of training reward
 └── README.md              # This file
-
-Atari_RL_Games/
- ─ train_agent.py         # Training script
- ─ test_agent.py          # Evaluation script
- ─ plot_rewards.py        # Reward visualization
- ─ checkpoints/           # Saved model weights
- ─ videos/                # Recorded gameplay
- ─ plots/                 # Graphs of training reward
- ─ README.md              # This file
