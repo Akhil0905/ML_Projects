@@ -23,12 +23,13 @@ This repository is not yet open-sourced.
 
 ## 🙋‍♂️ About Me
 
-I'm Akhil Tom, a Machine Learning graduate student passionate about solving real-world problems using Deep Learning, Computer Vision, and Reinforcement Learning.
+I'm **Akhil Tom**, a Machine Learning graduate student passionate about solving real-world problems using Deep Learning, Computer Vision, and Reinforcement Learning.
 
-- 📍 Currently pursuing MS in Machine Learning Engineering at Drexel University.  
+- 📍 Currently pursuing MS in Machine Learning Engineering at Drexel University.
 - 💻 Experienced with TensorFlow, PyTorch, OpenCV, Blender, and Transformers  
-- 📈 Projects range from RL agents for Atari games to 6D object localization in adverse weather conditions  
-- 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/akhil-tom-5447ba23a)
+- 📈 Projects range from RL agents for Atari games to object localization in adverse weather conditions  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/akhil-tom-5447ba23a)  
+- 📫 Email me at: [akhiltom102@gmail.com](mailto:akhiltom102@gmail.com)
 
 Feel free to check out more of my work or reach out for collaboration!
----
+
